@@ -1,0 +1,1 @@
+activateInspFlowByCapID(capId);
